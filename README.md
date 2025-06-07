@@ -1,5 +1,5 @@
 # Excel
-Completed numerous practice exercises covering:
+These exercises helped me gain practical experience and confidence in working with Excel databases.
 
 1. Advanced formulas (e.g., XLOOKUP, INDEX-MATCH)
 2. Data validation and conditional formatting
